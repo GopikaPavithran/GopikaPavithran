@@ -1,4 +1,4 @@
-## Hi there, I'am Gopika👋
+## Hi there, I'm Gopika👋
 
 <!--
 **GopikaPavithran/GopikaPavithran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
