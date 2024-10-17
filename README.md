@@ -1,5 +1,5 @@
-Hi there👋 I'm Gopika
-A data science aficionado 📊
+Hi there! 👋 I'm Gopika
+🌟 A data science aficionado 📊 | Enthusiastic about transforming data into meaningful insights | Exploring machine learning & analytics 🤖 | Always open to learning and collaboration! 🚀
 
 <!--
 **GopikaPavithran/GopikaPavithran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
